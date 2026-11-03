@@ -12,7 +12,7 @@ I build software and security tools, with projects spanning web applications, ap
 | [AppSec Assistant](https://github.com/Raghava-Gatadi/appsec-assistant) | Offline source-review triage, code navigation, HTML/SARIF reports, and documented validation |
 | [VerifiedRelease](https://github.com/Raghava-Gatadi/verifiedrelease) | Signed container evidence, release policy, identity/digest checks, and rejection tests |
 | [AWS Detection Engineering](https://github.com/Raghava-Gatadi/aws-detection-engineering-splunk) | Splunk detections for AWS CloudTrail with rule documentation and a public IR dataset |
-| [Quantum Computing Club Website](https://github.com/Raghava-Gatadi/QC-club-Main-website) | Django site with team, gallery, blog, magazine, and contact pages |
+| [Quantum Computing Club Website](https://github.com/Raghava-Gatadi/quantum-club-website) | Django site with team, gallery, blog, magazine, and contact pages |
 | [Portfolio Website](https://github.com/Raghava-Gatadi/Portfolio) | Static website for project write-ups, research, and certifications |
 
 ## Explore by interest
