@@ -4,8 +4,8 @@
   "owner": "Raghava-Gatadi",
   "repositories": [
     {
-      "name": "AES-Socket-Programming",
-      "url": "https://github.com/Raghava-Gatadi/AES-Socket-Programming",
+      "name": "aes-socket-chat",
+      "url": "https://github.com/Raghava-Gatadi/aes-socket-chat",
       "description": "Python socket chat demo with a handwritten AES implementation and shared-key message encryption.",
       "topics": [
         "learning-project",
@@ -13,7 +13,8 @@
         "cryptography",
         "socket-programming"
       ],
-      "category": "Labs & learning"
+      "category": "Labs & learning",
+      "archived": false
     },
     {
       "name": "appsec-assistant",
@@ -27,7 +28,8 @@
         "static-analysis",
         "code-review"
       ],
-      "category": "Security tools & engineering"
+      "category": "Security tools & engineering",
+      "archived": false
     },
     {
       "name": "auth-vulnerabilities-scripts",
@@ -40,7 +42,8 @@
         "portswigger",
         "web-security"
       ],
-      "category": "Labs & learning"
+      "category": "Labs & learning",
+      "archived": true
     },
     {
       "name": "automation-scripts",
@@ -53,7 +56,8 @@
         "application-security",
         "security-scanning"
       ],
-      "category": "Security tools & engineering"
+      "category": "Security tools & engineering",
+      "archived": false
     },
     {
       "name": "aws-detection-engineering-splunk",
@@ -66,7 +70,8 @@
         "detection-engineering",
         "cloud-security"
       ],
-      "category": "Security tools & engineering"
+      "category": "Security tools & engineering",
+      "archived": false
     },
     {
       "name": "blog-qc-club",
@@ -79,11 +84,12 @@
         "quantum-computing",
         "blog"
       ],
-      "category": "Software & websites"
+      "category": "Software & websites",
+      "archived": false
     },
     {
-      "name": "Cloud-Security-Projects",
-      "url": "https://github.com/Raghava-Gatadi/Cloud-Security-Projects",
+      "name": "cloud-security-case-studies",
+      "url": "https://github.com/Raghava-Gatadi/cloud-security-case-studies",
       "description": "Cloud security case-study reports covering AWS breach reconstruction, EC2 SSRF/IMDS, HIPAA risk, and multi-cloud recovery.",
       "topics": [
         "case-study",
@@ -92,7 +98,8 @@
         "incident-response",
         "risk-assessment"
       ],
-      "category": "Research & case studies"
+      "category": "Research & case studies",
+      "archived": false
     },
     {
       "name": "cybersecurity",
@@ -104,7 +111,8 @@
         "cybersecurity",
         "network-security"
       ],
-      "category": "Labs & learning"
+      "category": "Labs & learning",
+      "archived": true
     },
     {
       "name": "gittuf",
@@ -117,11 +125,12 @@
         "supply-chain-security",
         "tuf"
       ],
-      "category": "Upstream forks"
+      "category": "Upstream forks",
+      "archived": false
     },
     {
-      "name": "job-opportunities",
-      "url": "https://github.com/Raghava-Gatadi/job-opportunities",
+      "name": "recruitex-project-artifacts",
+      "url": "https://github.com/Raghava-Gatadi/recruitex-project-artifacts",
       "description": "Recruitex team coursework: job-platform reports, use-case diagrams, presentation, and UI screenshots; application source is not included.",
       "topics": [
         "coursework",
@@ -129,7 +138,8 @@
         "job-portal",
         "software-engineering"
       ],
-      "category": "Software & websites"
+      "category": "Software & websites",
+      "archived": false
     },
     {
       "name": "Major-Project",
@@ -138,11 +148,12 @@
       "topics": [
         "project-placeholder"
       ],
-      "category": "Placeholders & practice"
+      "category": "Placeholders & practice",
+      "archived": true
     },
     {
-      "name": "Network-Scanner",
-      "url": "https://github.com/Raghava-Gatadi/Network-Scanner",
+      "name": "django-network-scanner",
+      "url": "https://github.com/Raghava-Gatadi/django-network-scanner",
       "description": "Django and Scapy learning project for local-network device discovery and TCP port checks.",
       "topics": [
         "learning-project",
@@ -151,11 +162,12 @@
         "scapy",
         "network-scanner"
       ],
-      "category": "Labs & learning"
+      "category": "Labs & learning",
+      "archived": false
     },
     {
-      "name": "Password-Manager",
-      "url": "https://github.com/Raghava-Gatadi/Password-Manager",
+      "name": "cli-password-manager",
+      "url": "https://github.com/Raghava-Gatadi/cli-password-manager",
       "description": "Educational Python CLI password manager using MySQL and AES-CBC; includes entry search and clipboard support.",
       "topics": [
         "learning-project",
@@ -164,7 +176,8 @@
         "cryptography",
         "password-manager"
       ],
-      "category": "Labs & learning"
+      "category": "Labs & learning",
+      "archived": false
     },
     {
       "name": "Portfolio",
@@ -177,11 +190,12 @@
         "javascript",
         "github-pages"
       ],
-      "category": "Software & websites"
+      "category": "Software & websites",
+      "archived": false
     },
     {
-      "name": "Portswigger",
-      "url": "https://github.com/Raghava-Gatadi/Portswigger",
+      "name": "portswigger-labs",
+      "url": "https://github.com/Raghava-Gatadi/portswigger-labs",
       "description": "Python lab exercises for PortSwigger Web Security Academy authentication and SQL injection topics.",
       "topics": [
         "security-lab",
@@ -191,11 +205,12 @@
         "sql-injection",
         "authentication"
       ],
-      "category": "Labs & learning"
+      "category": "Labs & learning",
+      "archived": false
     },
     {
-      "name": "PUF-research",
-      "url": "https://github.com/Raghava-Gatadi/PUF-research",
+      "name": "puf-authentication-research",
+      "url": "https://github.com/Raghava-Gatadi/puf-authentication-research",
       "description": "Research-paper artifact on physically unclonable functions (PUFs) and IoT authentication.",
       "topics": [
         "research",
@@ -204,11 +219,12 @@
         "iot",
         "authentication"
       ],
-      "category": "Research & case studies"
+      "category": "Research & case studies",
+      "archived": false
     },
     {
-      "name": "Python-Scripts",
-      "url": "https://github.com/Raghava-Gatadi/Python-Scripts",
+      "name": "python-learning-experiments",
+      "url": "https://github.com/Raghava-Gatadi/python-learning-experiments",
       "description": "Python learning experiments: a network scanner, password checker, image steganography, and a political-tweet notebook.",
       "topics": [
         "learning-project",
@@ -217,11 +233,12 @@
         "steganography",
         "jupyter-notebook"
       ],
-      "category": "Labs & learning"
+      "category": "Labs & learning",
+      "archived": false
     },
     {
-      "name": "QC-club-Main-website",
-      "url": "https://github.com/Raghava-Gatadi/QC-club-Main-website",
+      "name": "quantum-club-website",
+      "url": "https://github.com/Raghava-Gatadi/quantum-club-website",
       "description": "Django website for the Quantum Computing Club with team, gallery, blog, magazine, and contact pages.",
       "topics": [
         "web-application",
@@ -229,7 +246,8 @@
         "django",
         "quantum-computing"
       ],
-      "category": "Software & websites"
+      "category": "Software & websites",
+      "archived": false
     },
     {
       "name": "tenantledger",
@@ -244,7 +262,8 @@
         "keycloak",
         "authorization"
       ],
-      "category": "Software & websites"
+      "category": "Software & websites",
+      "archived": false
     },
     {
       "name": "Test",
@@ -254,7 +273,8 @@
         "learning-project",
         "markdown"
       ],
-      "category": "Placeholders & practice"
+      "category": "Placeholders & practice",
+      "archived": true
     },
     {
       "name": "verifiedrelease",
@@ -268,7 +288,8 @@
         "cosign",
         "github-actions"
       ],
-      "category": "Security tools & engineering"
+      "category": "Security tools & engineering",
+      "archived": false
     }
   ]
 }
