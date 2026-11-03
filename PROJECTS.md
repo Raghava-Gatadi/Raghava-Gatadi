@@ -4,6 +4,8 @@ Public repositories grouped by purpose. Descriptions reflect the contents review
 
 Use browser Find for a technology or keyword, or search the [machine-readable catalog](projects.json). Repository topics provide another way to filter the account.
 
+[Browse active repositories](https://github.com/search?q=user%3ARaghava-Gatadi%20archived%3Afalse&type=repositories) · [Browse preserved archives](https://github.com/search?q=user%3ARaghava-Gatadi%20archived%3Atrue&type=repositories)
+
 ## Software & websites
 
 | Repository | What is here | Topics |
@@ -65,10 +67,10 @@ Use browser Find for a technology or keyword, or search the [machine-readable ca
 
 ## Useful GitHub searches
 
-- [Web applications](https://github.com/search?q=user%3ARaghava-Gatadi%20topic%3Aweb-application&type=repositories)
-- [Security labs](https://github.com/search?q=user%3ARaghava-Gatadi%20topic%3Asecurity-lab&type=repositories)
-- [Learning projects](https://github.com/search?q=user%3ARaghava-Gatadi%20topic%3Alearning-project&type=repositories)
-- [Research](https://github.com/search?q=user%3ARaghava-Gatadi%20topic%3Aresearch&type=repositories)
+- [Web applications](https://github.com/search?q=user%3ARaghava-Gatadi%20topic%3Aweb-application%20archived%3Afalse&type=repositories)
+- [Security labs](https://github.com/search?q=user%3ARaghava-Gatadi%20topic%3Asecurity-lab%20archived%3Afalse&type=repositories)
+- [Learning projects](https://github.com/search?q=user%3ARaghava-Gatadi%20topic%3Alearning-project%20archived%3Afalse&type=repositories)
+- [Research](https://github.com/search?q=user%3ARaghava-Gatadi%20topic%3Aresearch%20archived%3Afalse&type=repositories)
 - For a specific file or symbol, use repository code search or search locally in a clone. Topic search groups repositories; it does not search their source.
 
 [Profile](README.md) · [Maintenance guide](MAINTENANCE.md)
