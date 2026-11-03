@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-03",
+  "owner": "Raghava-Gatadi",
+  "repositories": [
+    {
+      "name": "AES-Socket-Programming",
+      "url": "https://github.com/Raghava-Gatadi/AES-Socket-Programming",
+      "description": "Python socket chat demo with a handwritten AES implementation and shared-key message encryption.",
+      "topics": [
+        "learning-project",
+        "python",
+        "cryptography",
+        "socket-programming"
+      ],
+      "category": "Labs & learning"
+    },
+    {
+      "name": "appsec-assistant",
+      "url": "https://github.com/Raghava-Gatadi/appsec-assistant",
+      "description": "Offline source security triage: maps entry points, sensitive functions, and review findings across Python, JavaScript/TypeScript, and common backend languages.",
+      "topics": [
+        "portfolio-project",
+        "security-tool",
+        "python",
+        "application-security",
+        "static-analysis",
+        "code-review"
+      ],
+      "category": "Security tools & engineering"
+    },
+    {
+      "name": "auth-vulnerabilities-scripts",
+      "url": "https://github.com/Raghava-Gatadi/auth-vulnerabilities-scripts",
+      "description": "Python exercises for PortSwigger Web Security Academy authentication labs; also included in the broader Portswigger lab collection.",
+      "topics": [
+        "security-lab",
+        "python",
+        "authentication",
+        "portswigger",
+        "web-security"
+      ],
+      "category": "Labs & learning"
+    },
+    {
+      "name": "automation-scripts",
+      "url": "https://github.com/Raghava-Gatadi/automation-scripts",
+      "description": "Python security utilities for source checks, dependency audits, secret scanning, TLS certificates, subdomains, and scheduled reports.",
+      "topics": [
+        "security-tool",
+        "python",
+        "automation",
+        "application-security",
+        "security-scanning"
+      ],
+      "category": "Security tools & engineering"
+    },
+    {
+      "name": "aws-detection-engineering-splunk",
+      "url": "https://github.com/Raghava-Gatadi/aws-detection-engineering-splunk",
+      "description": "Six Splunk detections for AWS CloudTrail with attack coverage, rule documentation, and a public incident-response dataset.",
+      "topics": [
+        "portfolio-project",
+        "aws",
+        "splunk",
+        "detection-engineering",
+        "cloud-security"
+      ],
+      "category": "Security tools & engineering"
+    },
+    {
+      "name": "blog-qc-club",
+      "url": "https://github.com/Raghava-Gatadi/blog-qc-club",
+      "description": "Quantum Computing Club blog built with Gatsby and Netlify CMS; a customized fork of the Delog starter.",
+      "topics": [
+        "web-application",
+        "gatsby",
+        "javascript",
+        "quantum-computing",
+        "blog"
+      ],
+      "category": "Software & websites"
+    },
+    {
+      "name": "Cloud-Security-Projects",
+      "url": "https://github.com/Raghava-Gatadi/Cloud-Security-Projects",
+      "description": "Cloud security case-study reports covering AWS breach reconstruction, EC2 SSRF/IMDS, HIPAA risk, and multi-cloud recovery.",
+      "topics": [
+        "case-study",
+        "cloud-security",
+        "aws",
+        "incident-response",
+        "risk-assessment"
+      ],
+      "category": "Research & case studies"
+    },
+    {
+      "name": "cybersecurity",
+      "url": "https://github.com/Raghava-Gatadi/cybersecurity",
+      "description": "Earlier Python security project collection: socket encryption, network scanning, password management, and small experiments.",
+      "topics": [
+        "learning-project",
+        "python",
+        "cybersecurity",
+        "network-security"
+      ],
+      "category": "Labs & learning"
+    },
+    {
+      "name": "gittuf",
+      "url": "https://github.com/Raghava-Gatadi/gittuf",
+      "description": "Fork of gittuf, the upstream Git repository security layer based on TUF concepts.",
+      "topics": [
+        "open-source-fork",
+        "go",
+        "git",
+        "supply-chain-security",
+        "tuf"
+      ],
+      "category": "Upstream forks"
+    },
+    {
+      "name": "job-opportunities",
+      "url": "https://github.com/Raghava-Gatadi/job-opportunities",
+      "description": "Recruitex team coursework: job-platform reports, use-case diagrams, presentation, and UI screenshots; application source is not included.",
+      "topics": [
+        "coursework",
+        "project-documentation",
+        "job-portal",
+        "software-engineering"
+      ],
+      "category": "Software & websites"
+    },
+    {
+      "name": "Major-Project",
+      "url": "https://github.com/Raghava-Gatadi/Major-Project",
+      "description": "Empty project placeholder; no source code or documentation has been committed.",
+      "topics": [
+        "project-placeholder"
+      ],
+      "category": "Placeholders & practice"
+    },
+    {
+      "name": "Network-Scanner",
+      "url": "https://github.com/Raghava-Gatadi/Network-Scanner",
+      "description": "Django and Scapy learning project for local-network device discovery and TCP port checks.",
+      "topics": [
+        "learning-project",
+        "python",
+        "django",
+        "scapy",
+        "network-scanner"
+      ],
+      "category": "Labs & learning"
+    },
+    {
+      "name": "Password-Manager",
+      "url": "https://github.com/Raghava-Gatadi/Password-Manager",
+      "description": "Educational Python CLI password manager using MySQL and AES-CBC; includes entry search and clipboard support.",
+      "topics": [
+        "learning-project",
+        "python",
+        "mysql",
+        "cryptography",
+        "password-manager"
+      ],
+      "category": "Labs & learning"
+    },
+    {
+      "name": "Portfolio",
+      "url": "https://github.com/Raghava-Gatadi/Portfolio",
+      "description": "Static portfolio website with security projects, software work, research write-ups, and certifications; hosted on GitHub Pages.",
+      "topics": [
+        "portfolio-website",
+        "html",
+        "css",
+        "javascript",
+        "github-pages"
+      ],
+      "category": "Software & websites"
+    },
+    {
+      "name": "Portswigger",
+      "url": "https://github.com/Raghava-Gatadi/Portswigger",
+      "description": "Python lab exercises for PortSwigger Web Security Academy authentication and SQL injection topics.",
+      "topics": [
+        "security-lab",
+        "python",
+        "portswigger",
+        "web-security",
+        "sql-injection",
+        "authentication"
+      ],
+      "category": "Labs & learning"
+    },
+    {
+      "name": "PUF-research",
+      "url": "https://github.com/Raghava-Gatadi/PUF-research",
+      "description": "Research-paper artifact on physically unclonable functions (PUFs) and IoT authentication.",
+      "topics": [
+        "research",
+        "hardware-security",
+        "puf",
+        "iot",
+        "authentication"
+      ],
+      "category": "Research & case studies"
+    },
+    {
+      "name": "Python-Scripts",
+      "url": "https://github.com/Raghava-Gatadi/Python-Scripts",
+      "description": "Python learning experiments: a network scanner, password checker, image steganography, and a political-tweet notebook.",
+      "topics": [
+        "learning-project",
+        "python",
+        "scapy",
+        "steganography",
+        "jupyter-notebook"
+      ],
+      "category": "Labs & learning"
+    },
+    {
+      "name": "QC-club-Main-website",
+      "url": "https://github.com/Raghava-Gatadi/QC-club-Main-website",
+      "description": "Django website for the Quantum Computing Club with team, gallery, blog, magazine, and contact pages.",
+      "topics": [
+        "web-application",
+        "python",
+        "django",
+        "quantum-computing"
+      ],
+      "category": "Software & websites"
+    },
+    {
+      "name": "tenantledger",
+      "url": "https://github.com/Raghava-Gatadi/tenantledger",
+      "description": "Multi-tenant expense approvals with FastAPI, PostgreSQL and Keycloak, plus an executable authorization security lab.",
+      "topics": [
+        "portfolio-project",
+        "web-application",
+        "python",
+        "fastapi",
+        "postgresql",
+        "keycloak",
+        "authorization"
+      ],
+      "category": "Software & websites"
+    },
+    {
+      "name": "Test",
+      "url": "https://github.com/Raghava-Gatadi/Test",
+      "description": "Markdown practice sandbox containing a short sample README.",
+      "topics": [
+        "learning-project",
+        "markdown"
+      ],
+      "category": "Placeholders & practice"
+    },
+    {
+      "name": "verifiedrelease",
+      "url": "https://github.com/Raghava-Gatadi/verifiedrelease",
+      "description": "Verified container releases for TenantLedger: signed SBOM and provenance, security scans, digest and identity admission, rejection tests, and expiring exceptions.",
+      "topics": [
+        "portfolio-project",
+        "devsecops",
+        "supply-chain-security",
+        "sbom",
+        "cosign",
+        "github-actions"
+      ],
+      "category": "Security tools & engineering"
+    }
+  ]
+}
